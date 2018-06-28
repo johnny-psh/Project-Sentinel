@@ -19,4 +19,5 @@ I have used the industry standard of testing 20% of the data against the 80%. Th
 # Issues 
 Due to the amount of dataset I have on hand, the data is actual very biased. It is not balance beetween the malicious and non-malicious query. With more dataset, I believe that this will be even more accurate. This solution has also not been tested out by public and hence, PLEASE DO NOT DEPLOY THIS INTO A PRODUCTION ENVIRONMENT
 
-
+# License
+MIT License Copyright (c) 2018 Johnny Pan
