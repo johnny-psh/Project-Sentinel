@@ -42,7 +42,7 @@ print(clf.score(X_test,y_test))
 serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 #bind the socket to a public host,
 # and a well-known port
-serversocket.bind(("", 8080))
+serversocket.bind(("", )) #Fill in your IP Address and Port. Edit the "connect.py" as well!
 #become a server socket
 serversocket.listen(5)
 
