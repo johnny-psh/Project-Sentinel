@@ -1,3 +1,4 @@
+# Project Sentinel (Proof of Concept)
 Project Sentinel in essence is using machine learning to detect abnormalities in the query sent by the user. My goal is to train a model that is power enough to detect malicious query that is commonly sent by an attacker to do the common attacks such as SQLi or XSS.
 
 # Motivation
